@@ -2,9 +2,12 @@
 course project
 
 
+
 Snake Game Project
 
-This project is a classic Snake game, built using C++. The game allows players to control a snake that grows in length as it consumes food, with various difficulty levels and additional features implemented for an engaging experience.
+This project is a classic Snake game, built using C++. The game allows players to control a snake that grows in length as it consumes food, with various difficulty levels 
+and additional features implemented for an engaging experience.
+
 
 
 Features
@@ -18,10 +21,13 @@ Features
 •	Score Tracking: Track your score as you progress through the game.
 
 
+
 Getting Started
 
 Prerequisites
 •	C++ compiler (e.g., g++)
+
+
 
 How to Run
 1.	Clone the repository:
