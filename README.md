@@ -10,8 +10,11 @@ This project is a classic Snake game, built using C++. The game allows players t
 Features
 
 •	Difficulty Levels: Choose between Easy, Medium, and Hard levels to challenge yourself.
+
 •	Continue Option: At the end of the game, players can decide to continue or exit.
+
 •	Food Generation: Random food generation on the map for the snake to consume and grow.
+
 •	Score Tracking: Track your score as you progress through the game.
 
 
