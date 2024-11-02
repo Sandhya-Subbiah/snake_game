@@ -45,12 +45,18 @@ Copy code
 Project Structure
 
 •	main.cpp - Main game file
+
 •	stack_using_ll.cpp, stack_using_array.cpp, queue_using_ll.cpp, queue_using_array.cpp - Supporting data structures used in the game
 How to Play
+
 •	Use arrow keys to move the snake.
+
 •	Avoid crashing into the walls or yourself.
+
 •	Eat the food to increase your score and snake length.
 Future Improvements
+
 •	Add more levels and obstacles.
+
 •	Enhance graphics and visual effects.
 
